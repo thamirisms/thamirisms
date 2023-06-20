@@ -1,5 +1,15 @@
-### I'm Thamiris MontSerrat
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamirisms)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-3facc.appspot.com/o/Letreiro.png?alt=media&token=9d18513a-17c2-48bb-af90-7c5160e971f4)
+
+#### I'm developing my skills to get ready to take of 🚀
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,nodejs,react&theme=light" />
+  </a>
+</p>
+
+
 <!--
 **thamirisms/thamirisms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
