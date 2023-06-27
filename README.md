@@ -1,6 +1,7 @@
 
 
-![alt text](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-3facc.appspot.com/o/Letreiro.png?alt=media&token=9d18513a-17c2-48bb-af90-7c5160e971f4)
+![alt text](https://firebasestorage.googleapis.com/v0/b/tiktok---jornada-3facc.appspot.com/o/Letreiro1.png?alt=media&token=5f2de691-c77c-4972-955a-45781281555d)
+
 
 #### I'm developing my skills to get ready to take of 🚀
 <p align="center">
